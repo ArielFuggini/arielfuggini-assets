@@ -1,0 +1,142 @@
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: normal;
+src: url('Marat Sans Regular.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: normal;
+src: url('Marat Sans Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 100;
+src: url('Marat Sans Thin.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 100;
+src: url('Marat Sans Thin Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 200;
+src: url('Marat Sans ExtraLight.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 200;
+src: url('Marat Sans ExtraLight Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 300;
+src: url('Marat Sans Light.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 300;
+src: url('Marat Sans Light Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 500;
+src: url('Marat Sans Medium.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 500;
+src: url('Marat Sans Medium Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 600;
+src: url('Marat Sans DemiBold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 600;
+src: url('Marat Sans DemiBold Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 700;
+src: url('Marat Sans Bold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 700;
+src: url('Marat Sans Bold Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 800;
+src: url('Marat Sans ExtraBold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 800;
+src: url('Marat Sans ExtraBold Italic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: normal;
+font-weight: 900;
+src: url('Marat Sans Black.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Marat';
+font-style: italic;
+font-weight: 900;
+src: url('Marat Sans Black Italic.woff') format('woff');
+}
